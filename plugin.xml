@@ -14,6 +14,6 @@
   <name>Android Support v4</name>
 
   <platform name="android">
-    <source-file src="android-support-v4.jar" target-dir="libs" />
+    <lib-file src="android-support-v4.jar" />
   </platform>
 </plugin>
